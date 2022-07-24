@@ -2,7 +2,7 @@
 
 Calculando o KI, que é a constante de inibição no contexto de um ensaio de inibição enzimática. O programa deve imprimir o Ki na tela.
 
-```
+```python
 from rdkit import Chem
 
 ic50 = float(input('Digite o valor de ic50: '))
