@@ -1,4 +1,5 @@
-# Calculo_de_KI
+# Cáculo de KI 
+
 Calculando o KI, que é a constante de inibição no contexto de um ensaio de inibição enzimática. O programa deve imprimir o Ki na tela.
 
 ```
